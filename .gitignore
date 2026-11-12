@@ -1,0 +1,21 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Compilação
+*.exe
+*.out
+*.o
+*.obj
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
